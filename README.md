@@ -31,7 +31,7 @@ I love programming and that's what I do in most of my free time.
 <br />
 <br />
 
-<img align="left" alt="Git" width="26px" src="https://cdn.icon-icons.com/icons2/2107/PNG/128/file_type_git_icon_130581.png" />
+<img align="left" alt="Git" width="26px" src="https://cdn.icon-icons.com/icons2/2415/PNG/128/git_plain_logo_icon_146507.png" />
 <img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
 <img align="left" alt="linux" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/linux/linux.png" />
 <img align="left" alt="linux" width="26px" src="https://cdn.icon-icons.com/icons2/1381/PNG/128/manjarowelcome_94304.png" />
