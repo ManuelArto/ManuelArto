@@ -36,6 +36,9 @@ I love programming and that's what I do in most of my free time.
 <img align="left" alt="Manjaro" width="26px" src="https://cdn.icon-icons.com/icons2/1381/PNG/128/manjarowelcome_94304.png" />
 <img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
 
+<br />
+<br />
+
 ---
 
 ![ManuelArto's github stats](https://github-readme-stats.vercel.app/api?username=ManuelArto&show_icons=true&hide=contribs,issues)
