@@ -4,6 +4,7 @@ I love programming and that's what I do in most of my free time.
 
 ### Languages and Tools:
 
+<div align="center">
 <img align="left" style="margin: 10px" alt="Python" height="26px" src="https://cdn.icon-icons.com/icons2/112/PNG/128/python_18894.png">
 <img align="left" style="margin: 10px" alt="Flutter" height="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/flutter/flutter.png">
 <img align="left" style="margin: 10px" alt="Dart" height="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/dart/dart.png">
@@ -38,6 +39,8 @@ I love programming and that's what I do in most of my free time.
 
 <br>
 <br>
+
+</div>
 
 ---
 
