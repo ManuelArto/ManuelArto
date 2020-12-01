@@ -3,7 +3,6 @@ I'm a **Computer Science** student at the **University of Bologna**. <br>
 I love programming and that's what I do in most of my free time.
 
 ### Languages and Tools:
-
 <div align="center>
 <img style="margin: 10px" alt="Python" width="26px" height="26px" src="https://cdn.icon-icons.com/icons2/112/PNG/128/python_18894.png">
 <img style="margin: 10px" alt="Flutter" width="26px" height="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/flutter/flutter.png">
