@@ -5,7 +5,7 @@ I love programming and that's what I do in most of my free time.
 ### Languages and Tools:
 
 <div align="center">
-<img align="left" style="margin: 10px" alt="Python" height="26px" src="https://cdn.icon-icons.com/icons2/112/PNG/128/python_18894.png">
+<img align="left" style="margin: 10px" alt="Python" height="26px" src="https://cdn.icon-icons.com/icons2/112/PNG/512/python_18894.png">
 <img align="left" style="margin: 10px" alt="Flutter" height="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/flutter/flutter.png">
 <img align="left" style="margin: 10px" alt="Dart" height="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/dart/dart.png">
 <img align="left" style="margin: 10px" alt="Java" height="26px" src="https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/181_Java_logo_logos-512.png">
@@ -34,7 +34,7 @@ I love programming and that's what I do in most of my free time.
 <img align="left" style="margin: 10px" alt="Git" height="26px" src="https://cdn.icon-icons.com/icons2/2415/PNG/128/git_plain_logo_icon_146507.png">
 <img align="left" style="margin: 10px" alt="GitHub" height="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png">
 <img align="left" style="margin: 10px" alt="Linux" height="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/linux/linux.png">
-<img align="left" style="margin: 10px" alt="Manjaro" height="26px" src="https://cdn.icon-icons.com/icons2/1381/PNG/128/manjarowelcome_94304.png">
+<img align="left" style="margin: 10px" alt="Manjaro" height="26px" src="https://cdn.icon-icons.com/icons2/1381/PNG/512/manjarowelcome_94304.png">
 <img align="left" style="margin: 10px" alt="Terminal" height="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png">
 
 <br>
