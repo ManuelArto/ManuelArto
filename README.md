@@ -1,5 +1,5 @@
 ### Hi there, I'm Manuel👋
-I'm a **Computer Science** student at the **University of Bologna**. <br>
+I'm a passionate **backend software developer** and currently wrapping up my final year in **computer science** at **UniBO**. <br>
 I love programming and that's what I do in most of my free time.
 
 ### Languages and Tools:
