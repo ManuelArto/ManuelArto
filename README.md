@@ -44,7 +44,7 @@ I love programming and that's what I do in most of my free time.
 
 ---
 
-![ManuelArto's github stats](https://github-readme-stats.vercel.app/api?username=ManuelArto&theme=calm&show_icons=true&hide=contribs,issues)
+<!-- ![ManuelArto's github stats](https://github-readme-stats.vercel.app/api?username=ManuelArto&theme=calm&show_icons=true&hide=contribs,issues) -->
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ManuelArto&layout=compact&exclude_repo=ManuelArto.github.io&hide=swift)
 
